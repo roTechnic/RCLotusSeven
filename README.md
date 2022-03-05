@@ -1,6 +1,6 @@
 The 3mf files are above.
 
-Assembly is described in this youtube video:
+Assembly is described in this youtube video: https://youtu.be/hxBUj35GGi8
 
 You will also need:
 
